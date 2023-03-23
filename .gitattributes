@@ -32,7 +32,7 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
-# Desktop source file
+# Desktop entry source file
 *.desktop linguist-detectable=true
 *.desktop linguist-documentation=false
 *.desktop linguist-language=Desktop
@@ -122,10 +122,6 @@
 *.tex linguist-detectable=false
 *.tex linguist-documentation=false
 *.tex linguist-language=TeX
-# Desktop entry
-*.desktop linguist-detectable=false
-*.desktop linguist-documentation=false
-*.desktop linguist-language=desktop
 # INI/CFG
 *.ini linguist-detectable=false
 *.ini linguist-documentation=false
@@ -171,7 +167,7 @@
 # File info
 
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2023, Thursday, March 23rd at 2:59 pm PST)
-# Line count (including blank lines and compiler line): 178
+# File version: 6 (2023, Thursday, March 23rd at 3:02 pm PST)
+# Line count (including blank lines and compiler line): 174
 
 # End of script
